@@ -26,5 +26,5 @@ requests
 # numba
 
 # Optional: Additional technical analysis library
-# ta
+ ta
 # TA-Lib
