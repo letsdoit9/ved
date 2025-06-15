@@ -10,7 +10,7 @@ import ta
 
 # 🔧 AUTO-CONFIGURATION - Edit these values once
 AUTO_CONFIG = {
-    "upstox_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiJBSzg0NzUiLCJqdGkiOiI2ODRkOGJjM2RjZjAzMTBlOGM0Nzc2MjEiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc0OTkxMjUxNSwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzQ5OTM4NDAwfQ.O349alNfECEginKD2XpJowMK0DY51oj4tyPccHpnXso",
+    "upstox_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiJBSzg0NzUiLCJqdGkiOiI2ODRlNTkwMjExYjNmNjAxMzFlZmUwNDkiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc0OTk2NTA1OCwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzUwMDI0ODAwfQ.NtG_Dn3VLG6zmOw--lBjgXp5eCeWH5ju66DpAqHRPqg",
     "telegram_bot_token": "7923075723:AAGL5-DGPSU0TLb68vOLretVwioC6vK0fJk", 
     "telegram_chat_id": "457632002",
     "default_stocks": """instrument_key,tradingsymbol
